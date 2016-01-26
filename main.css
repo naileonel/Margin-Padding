@@ -1,0 +1,13 @@
+body{
+	height: 250px;
+	width: 150px;
+	border:orange 3px solid;
+	text-align:left;
+	padding:10px 15px;
+   }
+   h1{
+   	font-size:16px; 
+   }
+   p{
+   	font-size: 14px;
+   }
