@@ -1,15 +1,20 @@
 
  div{
-   	height: 220px;
-	width: 200px;
-	text-align:center;
-	font-size:14px;
-    border :orange 3px solid;
-    margin:10px 50px;
+   	height: 210px;
+	width: 190px;
+	text-align:inherit;
+	font-size:12px;
+    border :purple 2px dashed;
     }
  h1{
-   	font-size: 16px;
+   	font-size: 13px;
+   	text-align:center;
    }
  h2{
- 	font-size: 16px;
+ 	font-size: 13px;
+ 	text-align: center;
+   }
+   h3{
+   	font-size: 13px;
+   	text-align: center;
    }
