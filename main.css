@@ -1,13 +1,15 @@
-body{
-	height: 250px;
-	width: 150px;
-	border:orange 3px solid;
-	text-align:left;
-	padding:10px 15px;
+
+ div{
+   	height: 220px;
+	width: 200px;
+	text-align:center;
+	font-size:14px;
+    border :orange 3px solid;
+    margin:10px 50px;
+    }
+ h1{
+   	font-size: 16px;
    }
-   h1{
-   	font-size:16px; 
-   }
-   p{
-   	font-size: 14px;
+ h2{
+ 	font-size: 16px;
    }
